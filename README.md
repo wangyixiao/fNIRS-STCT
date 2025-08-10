@@ -10,6 +10,7 @@
 ***loader***: Load the datasets.
 
 ***Train***: Training model.
+
 ***model***: Code for the proposed fNIRS-STCT.
 
 ***Result***: Evaluate the experimental results.
